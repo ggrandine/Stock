@@ -1,0 +1,3 @@
+@extends('layouts.simple')
+@section('title','Alterar material')
+@section('content')<h1>Alterar material #{{ $id }}</h1><div class="card card-body"><form><div class="form-group"><label>Nome do material</label><input class="form-control"></div><div class="form-group"><label>Categoria</label><input class="form-control"></div><div class="form-row"><div class="form-group col-md-6"><label>Quantidade</label><input class="form-control" type="number" min="0"></div><div class="form-group col-md-6"><label>Unidade</label><input class="form-control"></div></div><a class="btn btn-light" href="{{ route('Materiais') }}">Cancelar</a> <button type="button" class="btn btn-primary">Salvar alterações</button></form></div>@endsection

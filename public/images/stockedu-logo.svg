@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title description">
+  <title id="title">StockEdu</title>
+  <desc id="description">StockEdu, Sistema de Estoque SESI</desc>
+  <text x="12" y="92" fill="#7a2d00" font-family="Arial Black, Impact, sans-serif" font-size="91" font-style="italic" font-weight="900" letter-spacing="-7">StockEdu</text>
+  <text x="25" y="126" fill="#ff2934" font-family="Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="10">SISTEMA DE ESTOQUE</text>
+  <rect x="235" y="133" width="49" height="14" rx="1" fill="#ff2934"/>
+  <text x="259.5" y="144" fill="#fff" font-family="Arial, sans-serif" font-size="11" font-weight="900" text-anchor="middle">SESI</text>
+</svg>

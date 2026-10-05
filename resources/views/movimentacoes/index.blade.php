@@ -1,0 +1,3 @@
+@extends('layouts.simple')
+@section('title','Movimentações')
+@section('content')<div class="d-flex justify-content-between"><h1>Movimentações</h1><a class="btn btn-primary" href="{{ route('CadastroMovimentacao') }}">Registrar movimentação</a></div><div class="card card-body mt-3"><table class="table"><thead><tr><th>Data</th><th>Material</th><th>Tipo</th><th>Quantidade</th><th>Responsável</th></tr></thead><tbody><tr><td colspan="5" class="text-muted text-center">Nenhuma movimentação cadastrada.</td></tr></tbody></table></div>@endsection
